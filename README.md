@@ -1,6 +1,18 @@
 <h1 align="center">Hola 👋, yo soy Fernando Leyva</h1>
 <h3 align="center">Soy estudiante de ingeniería de desarrollo de software en México</h3>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Fernand117/Fernand117/main/ferdev_background_youtube.jpg" width="500" align="left">
+    <p align="left">
+      <h3>Bienvenido</h3>
+      Soy estudiante de la carrera de ingeniería de software, me gusta mucho dedicar mi tiempo a programar y aprender nuevas cosas. Actualmente trabajo en proyectoss personales tales como Fcry, que podrás encontrarlo si sigues explorando entre mis repositorios, te llevarás una gran sorpresa.
+    </p>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fernand_117" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fernand_117" height="30" width="40" /></a>
