@@ -21,7 +21,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernand117" alt="fernand117" style="width:100%;"/></a> </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernand117&show_icons=true&locale=en&layout=compact" alt="fernand117" style="width:28%;"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernand117&show_icons=true&locale=en" alt="fernand117" style="width:34%;"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernand117&" alt="fernand117" style="width:34%;"/>
