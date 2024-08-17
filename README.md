@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Fernando Leyva <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
-<h3 align="center">Soy estudiante de ingeniería de desarrollo de software en México</h3>
+<h3 align="center">Soy ingeniero de software en México</h3>
 <p align="center">
   <img src="https://github.com/Fernand117/Fernand117/blob/main/ferdev_background_github.jpg" align="center" style="width:100%;"/>
 </p>
